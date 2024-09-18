@@ -1,5 +1,11 @@
 consigna: https://docs.google.com/document/d/1vYvJtox8C0DDLW5PqS4pkayPHpqbo57t3ISXmHe0Qak/edit#heading=h.xtcsbkfzoma7
 
+#participantes
+yo
+[Tomas Barbieri](https://github.com/tomas77745)
+[Marco Szapari ](https://github.com/MarcoSzapar)
+
+
 
 
 ![image](https://github.com/user-attachments/assets/a0728661-3eaf-4b2b-8e79-b1e911fc00c9)
