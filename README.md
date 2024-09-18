@@ -2,12 +2,9 @@ consigna: https://docs.google.com/document/d/1vYvJtox8C0DDLW5PqS4pkayPHpqbo57t3I
 
 #participantes.
 
-yo.
-
-[Tomas Barbieri](https://github.com/tomas77745).
-
-[Marco Szapari ](https://github.com/MarcoSzapar).
-
+yo
+[Tomas Barbieri](https://github.com/tomas77745)
+[Marco Szapari ](https://github.com/MarcoSzapar)
 
 
 
