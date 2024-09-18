@@ -1,9 +1,13 @@
 consigna: https://docs.google.com/document/d/1vYvJtox8C0DDLW5PqS4pkayPHpqbo57t3ISXmHe0Qak/edit#heading=h.xtcsbkfzoma7
 
-#participantes[\n]
-yo[\n]
-[Tomas Barbieri](https://github.com/tomas77745)[\n]
-[Marco Szapari ](https://github.com/MarcoSzapar)[\n]
+#participantes.
+
+yo.
+
+[Tomas Barbieri](https://github.com/tomas77745).
+
+[Marco Szapari ](https://github.com/MarcoSzapar).
+
 
 
 
